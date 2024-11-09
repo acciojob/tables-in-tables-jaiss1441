@@ -5,7 +5,7 @@
         }
      
         /* Specific style for black background with white text */
-        .HTML {
+        th {
             background-color: black;
             color: white;
 			align:center;
