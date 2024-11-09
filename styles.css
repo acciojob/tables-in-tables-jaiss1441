@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+tr{
+	border-color:black;
+	border:2px;
+}
+.HTML{
+	background-color:black;
+	color:white;
+}
